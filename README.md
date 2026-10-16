@@ -105,10 +105,10 @@ This project is based on the SQL Data Analytics course by [Data With Baraa](http
 
 ## 👋 About Me
 
-Hi, I'm **Anurag**. I'm a former Senior Manager with a background in civil engineering and construction management, now moving into **data analytics**. I enjoy turning messy operational data into clear decisions.
+Hi there! I'm **Anuraghava Reddy A**. I'm a former Senior Manager with ~7 years of experience in civil engineering and construction management, where I led resource planning and operations across multiple projects. I'm now moving into **data analytics and data engineering**, building hands-on projects that turn raw data into clear business decisions.
 
-- 💼 LinkedIn: linkedin.com/in/anuraghava-reddy
-- 🐙 GitHub: 
+- 💼 LinkedIn: www.linkedin.com/in/anuraghava-reddy-anugula-023605159
+- 🐙 GitHub: anuraghava-reddy
 - 📧 Email: aanuraghavareddy123@gmail.com
 
 ⭐ If you found this project useful, feel free to star the repo!
